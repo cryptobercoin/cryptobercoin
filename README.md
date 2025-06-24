@@ -9,7 +9,7 @@
 ---
 
 ## 💼 Dompet Publik (Wallet)
-`0xc81e...E800` *(bisa diganti full jika mau transparan)*
+`0xc81eb384062e2b097aa4656ac77fe81873bee800` *(bisa diganti full jika mau transparan)*
 
 ---
 
@@ -32,9 +32,9 @@
 ---
 
 ## 📫 Kontak
-🌍 Discord: cryptobercoin#xxxx *(ganti sesuai usermu)*  
-📧 Email: [opsional]  
-Twitter: [opsional link profil kamu]
+🌍 Discord: cryptobercoin  
+📧 Email: cryptobercoin@gmail.com 
+Twitter: https://x.com/cryptobercoin?t=IfBNtoVAJOVvquizWLXekA&s=09
 
 ---
 
