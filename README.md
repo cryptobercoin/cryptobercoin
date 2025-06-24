@@ -9,7 +9,7 @@
 ---
 
 ## 💼 Dompet Publik (Wallet)
-`0xc81eb384062e2b097aa4656ac77fe81873bee800` *(bisa diganti full jika mau transparan)*
+`0xc81eb384062e2b097aa4656ac77fe81873bee800`
 
 ---
 
